@@ -6,7 +6,7 @@ I made this to actually understand how a neural network learns, not just call `.
 
 ![Neural network architecture](ANN_Architecture.png)
 
-*The image is a simplified illustration. In my actual model the second hidden layer has 126 neurons, not 64.*
+*The image is a simplified illustration.*
 
 ## What it does
 
@@ -34,7 +34,7 @@ Input (28x28)
    ↓ Dense + ReLU
 128
    ↓ Dense + ReLU
-126
+128
    ↓ Dense + Softmax
 10
 ```
