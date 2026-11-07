@@ -4,7 +4,7 @@ A simple neural network that looks at an image of a handwritten digit (0 to 9) a
 
 I made this to actually understand how a neural network learns, not just call `.fit()` and move on. It gets about **97.4%** on the test set.
 
-![Neural network architecture](images/ANN_Architecture.png)
+![Neural network architecture](ANN_Architecture.png)
 
 *The image is a simplified illustration. In my actual model the second hidden layer has 126 neurons, not 64.*
 
